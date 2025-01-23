@@ -7,4 +7,4 @@ Simple admin dashboard design as a css grid practice.
 ### Resources:
 - [minireset.css](https://jgthms.com/minireset.css/)
 - [Roboto Font](https://fonts.google.com/specimen/Roboto)
-- [icons](https://tabler.io/icons)
+- [Tabler Icons](https://tabler.io/icons)
